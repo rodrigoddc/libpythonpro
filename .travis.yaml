@@ -1,0 +1,11 @@
+language: python
+python:
+  - 3.6
+  - 3.7
+install:
+  #main
+  - pip install -q -r requirements.txt
+  #developer
+  - pip install -q -r requirements-dev.txt
+script:
+  - flake8
