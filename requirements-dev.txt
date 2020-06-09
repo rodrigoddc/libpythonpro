@@ -10,7 +10,7 @@ py==1.8.1
 more-itertools==4.0.0
 pyparsing==2.0.2
 six==1.15.0
-six==1.11.0
+six==1.15.0
 attrs==19.3.0
 pluggy==0.13.1
 wcwidth==0.2.4
