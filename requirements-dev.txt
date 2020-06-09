@@ -14,3 +14,5 @@ attrs==19.3.0
 pluggy==0.13.1
 wcwidth==0.2.4
 packaging==20.4
+coverage==5.1
+pytest-cov==2.9.0
